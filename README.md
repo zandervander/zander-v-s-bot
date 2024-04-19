@@ -1,4 +1,4 @@
-# zander v's bot
+### zander v's bot
 update 1.30.2
 ## changes
 bot now requires zander v's bot role to have display over online enabled for funtionality
